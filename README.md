@@ -4,8 +4,9 @@ IT Development semester project
 The perfect example of interaction between my project and repository.
 
 
+
 Reference
-	Wagenaar, G., Helms, R., Damian, D. and Brinkkemper, S., 2015, December. Artefacts in agile 	software development. In International Conference on Product-Focused Software Process 	Improvement (pp. 133-148). Springer, Cham.
+	Wagenaar, G., Helms, R., Damian, D. and Brinkkemper, S., 2015, December. Artefacts in agile 	software development. InÂ International Conference on Product-Focused Software Process 	ImprovementÂ (pp. 133-148). Springer, Cham.
 
 
 The repository CMPG323_Overview_31584632 will be used for all my projects from project one till Portfolio of Evidence(POE),
